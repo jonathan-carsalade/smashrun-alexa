@@ -1,0 +1,45 @@
+### Python ###
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Zappa
+zappa_settings.json
+
+### JetBrains ###
+# User-specific configurations
+.idea/
+*.iml
+*.ipr
+*.iws
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config files
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+### macOS ###
+*.DS_Store
+
+### Linux ###
+*~
